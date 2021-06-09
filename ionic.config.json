@@ -1,0 +1,7 @@
+{
+    "name": "Stops",
+    "integrations": {
+      "capacitor": {}
+    },
+    "type": "react"
+  }
